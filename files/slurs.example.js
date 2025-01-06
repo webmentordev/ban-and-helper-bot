@@ -1,0 +1,3 @@
+exports.slurs = [
+    "slur here",
+];
